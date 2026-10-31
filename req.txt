@@ -1,0 +1,5 @@
+truedriver
+pyautogui
+tls_client
+requests
+urllib3

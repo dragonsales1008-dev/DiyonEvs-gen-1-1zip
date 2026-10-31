@@ -1,0 +1,30 @@
+{
+    "threads": 1,
+    "email_provider": {
+        "name": "tempmail",
+        "afhamxmailz": {
+            "api_url": "https://afhamxmailz.com",
+            "api_key": "axm_fxzRs4mceG1cthIrAYFgms1vuhLKjffyEr1iKUVA9nM"
+        },
+        "zeus_x": {
+            "api_key": "ADD_ZEUS_X_KEY_HERE",
+            "account_code": "HOTMAIL_TRUSTED",
+            "imap_server": "outlook.office365.com"
+        },
+        "hotmail007": {
+            "api_key": "https://gapi.hotmail007.com/api/mail/getMail",
+            "imap_server": "outlook.office365.com"
+        },
+        "cybertemp": {
+            "api_key": "tk_99ca5b00df952352ebe9ffbe41c5897bcd4a2bec791c6bafb9d07170c06a43de"
+        }
+    },
+    "proxy": {
+        "enabled": false,
+        "file": "input/proxies.txt"
+    },
+    "adb": {
+        "enabled": false,
+        "network_reset_wait": 7
+    }
+}
